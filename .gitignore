@@ -1,0 +1,7 @@
+*.log
+*.tmp
+.env
+*.pem
+*.key
+monitor_backup.sh
+
